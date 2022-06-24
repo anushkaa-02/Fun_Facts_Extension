@@ -1,4 +1,4 @@
-# Dad Jokes Extension
+# Fun Facts Extension
 
 
 ---
